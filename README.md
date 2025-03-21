@@ -1,4 +1,4 @@
-Stai leggendo questo README.me?
+Stai leggendo questo README.md?
 Perfetto, allora sei interessato al progetto.
 Noi siamo qui per proporre a te la possibilità di studiare qualsiasi linguaggio di programmazione esistente.
 Questa pagina è sempre aggiornata almeno 1 volta al mese.
